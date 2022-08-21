@@ -1,0 +1,176 @@
+Creator "Mark Newman on Wed Oct 18 16:42:04 2006"
+graph
+[
+  directed 0
+  node
+  [
+    id 0
+    label "1000 Years for Revenge"
+    value "n"
+  ]
+  node
+  [
+    id 1
+    label "Bush vs. the Beltway"
+    value "c"
+  ]
+  node
+  [
+    id 2
+    label "Charlie Wilson's War"
+    value "c"
+  ]
+  node
+  [
+    id 3
+    label "Losing Bin Laden"
+    value "c"
+  ]
+  node
+  [
+    id 4
+    label "Sleeping With the Devil"
+    value "n"
+  ]
+  node
+  [
+    id 5
+    label "The Man Who Warned America"
+    value "c"
+  ]
+  node
+  [
+    id 6
+    label "Why America Slept"
+    value "n"
+  ]
+  node
+  [
+    id 7
+    label "Ghost Wars"
+    value "n"
+  ]
+  node
+  [
+    id 8
+    label "A National Party No More"
+    value "c"
+  ]
+  node
+  [
+    id 9
+    label "Bush Country"
+    value "c"
+  ]
+  node
+  [
+    id 10
+    label "Dereliction of Duty"
+    value "c"
+  ]
+  node
+  [
+    id 11
+    label "Legacy"
+    value "c"
+  ]
+   edge
+  [
+    source 0
+    target 1
+  ]
+  edge
+  [
+    source 0
+    target 2
+  ]
+  edge
+  [
+    source 0
+    target 4
+  ]
+  edge
+  [
+    source 1
+    target 2
+  ]
+  edge
+  [
+    source 1
+    target 8
+  ]
+  edge
+  [
+    source 2
+    target 3
+  ]
+  edge
+  [
+    source 3
+    target 4
+  ]
+  edge
+  [
+    source 3
+    target 6
+  ]
+  edge
+  [
+    source 4
+    target 6
+  ]
+  edge
+  [
+    source 4
+    target 5
+  ]
+  edge
+  [
+    source 5
+    target 6
+  ]
+  edge
+  [
+    source 5
+    target 11
+  ]
+    edge
+  [
+    source 6
+    target 7
+  ]
+  edge
+  [
+    source 7
+    target 8
+  ]  
+  edge
+  [
+    source 7
+    target 9
+  ]
+  edge
+  [
+    source 7
+    target 11
+  ]  
+  edge
+  [
+    source 8
+    target 9
+  ]
+  edge
+  [
+    source 9
+    target 10
+  ]  
+  edge
+  [
+    source 9
+    target 11
+  ]
+    edge
+  [
+    source 10
+    target 11
+  ]
